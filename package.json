@@ -2,7 +2,7 @@
   "private": true,
   "homepage": "https://calc.pokemonshowdown.com/",
   "repository": "github:smogon/damage-calc",
-  "name": "damage-calc"
+  "name": "damage-calc",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^8.35.0",
